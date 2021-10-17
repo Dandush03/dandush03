@@ -6,9 +6,9 @@
   "routes": {
     "/**": "index.html"
   },
-  "homepage": "https://dandush03.github.io/Portafolio/",
+  "homepage": "https://dandush03.github.io/dandush03/",
   "repository": {
-    "url": "https://github.com/Dandush03/Portafolio",
+    "url": "https://github.com/Dandush03/dandush03",
     "type": "git"
   },
   "author": {
@@ -16,7 +16,7 @@
     "email": "info@dev-webs.net"
   },
   "bugs": {
-    "url": "https://github.com/Dandush03/Portafolio/issues"
+    "url": "https://github.com/Dandush03/dandush03/issues"
   },
   "license": "MIT",
   "readmeFilename": "README.md",

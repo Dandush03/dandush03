@@ -43,7 +43,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 ## Contact 📫
 
-- :link: For more information about me: ... [My Portfolio Website](https://dandush03.github.io/Portafolio/)
+- :link: For more information about me: ... [My Portfolio Website](https://dandush03.github.io/dandush03/)
 
 - 💬 How to reach me: ... [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-laloush/) 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dlaloush)

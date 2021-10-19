@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandush03)](https://github.com/anuraghazra/github-readme-stats) 
-![Full-Stack Web Developer](https://user-images.githubusercontent.com/44635784/110093819-31e6fa80-7dac-11eb-885a-b936272a445a.gif)
 -->
-![Full-Stack Web Developer](https://user-images.githubusercontent.com/51087936/137946825-e9cc4215-d55e-46cd-a246-fb3ed41226e0.gif)
+![Full-Stack Web Developer](https://user-images.githubusercontent.com/51087936/137947885-239ce72c-5cf5-4001-9f77-ba7cedae3442.gif)
 
 ## About Me 😄
 :wave: Hey, I am Daniel; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
